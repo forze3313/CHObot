@@ -7,7 +7,7 @@ API_ID =   # Замените на api_id
 API_HASH = ''  # Замените на api_hash
 
 # ID или юзернейм вашей группы СНО (обязательно с минусом, если это супергруппа, например: -100123456789)
-TARGET_GROUP_ID = -1004480288950
+TARGET_GROUP_ID = 
 
 client = TelegramClient('sno_session', API_ID, API_HASH)
 
